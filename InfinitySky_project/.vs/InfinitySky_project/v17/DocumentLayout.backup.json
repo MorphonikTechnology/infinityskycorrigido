@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laura\\Downloads\\InfinitySky_project\\InfinitySky_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F62FE2E-42BB-49A5-910A-C613A0A32A9B}|InfinitySky_project\\InfinitySky_project.csproj|c:\\users\\laura\\downloads\\infinitysky_project\\infinitysky_project\\infinitysky_project\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F62FE2E-42BB-49A5-910A-C613A0A32A9B}|InfinitySky_project\\InfinitySky_project.csproj|solutionrelative:infinitysky_project\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F62FE2E-42BB-49A5-910A-C613A0A32A9B}|InfinitySky_project\\InfinitySky_project.csproj|c:\\users\\laura\\downloads\\infinitysky_project\\infinitysky_project\\infinitysky_project\\wwwroot\\css\\estilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0F62FE2E-42BB-49A5-910A-C613A0A32A9B}|InfinitySky_project\\InfinitySky_project.csproj|solutionrelative:infinitysky_project\\wwwroot\\css\\estilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laura\\Downloads\\InfinitySky_project\\InfinitySky_project\\InfinitySky_project\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "InfinitySky_project\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Laura\\Downloads\\InfinitySky_project\\InfinitySky_project\\InfinitySky_project\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "InfinitySky_project\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T01:40:12.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "estilo.css",
+              "DocumentMoniker": "C:\\Users\\Laura\\Downloads\\InfinitySky_project\\InfinitySky_project\\InfinitySky_project\\wwwroot\\css\\estilo.css",
+              "RelativeDocumentMoniker": "InfinitySky_project\\wwwroot\\css\\estilo.css",
+              "ToolTip": "C:\\Users\\Laura\\Downloads\\InfinitySky_project\\InfinitySky_project\\InfinitySky_project\\wwwroot\\css\\estilo.css",
+              "RelativeToolTip": "InfinitySky_project\\wwwroot\\css\\estilo.css",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAcwKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-15T01:39:22.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
