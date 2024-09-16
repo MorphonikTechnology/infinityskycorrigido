@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Laura\\Downloads\\InfinitySky_project\\InfinitySky_project\\InfinitySky_project\\InfinitySky_project.csproj": {}
+    "C:\\Users\\Marina\\Desktop\\infinityskycorrigido\\InfinitySky_project\\InfinitySky_project\\InfinitySky_project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Laura\\Downloads\\InfinitySky_project\\InfinitySky_project\\InfinitySky_project\\InfinitySky_project.csproj": {
+    "C:\\Users\\Marina\\Desktop\\infinityskycorrigido\\InfinitySky_project\\InfinitySky_project\\InfinitySky_project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Laura\\Downloads\\InfinitySky_project\\InfinitySky_project\\InfinitySky_project\\InfinitySky_project.csproj",
+        "projectUniqueName": "C:\\Users\\Marina\\Desktop\\infinityskycorrigido\\InfinitySky_project\\InfinitySky_project\\InfinitySky_project.csproj",
         "projectName": "InfinitySky_project",
-        "projectPath": "C:\\Users\\Laura\\Downloads\\InfinitySky_project\\InfinitySky_project\\InfinitySky_project\\InfinitySky_project.csproj",
-        "packagesPath": "C:\\Users\\Laura\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Laura\\Downloads\\InfinitySky_project\\InfinitySky_project\\InfinitySky_project\\obj\\",
+        "projectPath": "C:\\Users\\Marina\\Desktop\\infinityskycorrigido\\InfinitySky_project\\InfinitySky_project\\InfinitySky_project.csproj",
+        "packagesPath": "C:\\Users\\Marina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marina\\Desktop\\infinityskycorrigido\\InfinitySky_project\\InfinitySky_project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Laura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Marina\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
