@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\laisv\\Desktop\\infinityskycorrigido\\InfinitySky_project\\InfinitySky_project\\InfinitySky_project.csproj": {}
   },
   "projects": {
@@ -12,13 +13,30 @@
         "projectPath": "C:\\Users\\laisv\\Desktop\\infinityskycorrigido\\InfinitySky_project\\InfinitySky_project\\InfinitySky_project.csproj",
         "packagesPath": "C:\\Users\\laisv\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\laisv\\Desktop\\infinityskycorrigido\\InfinitySky_project\\InfinitySky_project\\obj\\",
+=======
+    "C:\\Users\\Marina\\Desktop\\infinityskycorrigido\\InfinitySky_project\\InfinitySky_project\\InfinitySky_project.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Marina\\Desktop\\infinityskycorrigido\\InfinitySky_project\\InfinitySky_project\\InfinitySky_project.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Marina\\Desktop\\infinityskycorrigido\\InfinitySky_project\\InfinitySky_project\\InfinitySky_project.csproj",
+        "projectName": "InfinitySky_project",
+        "projectPath": "C:\\Users\\Marina\\Desktop\\infinityskycorrigido\\InfinitySky_project\\InfinitySky_project\\InfinitySky_project.csproj",
+        "packagesPath": "C:\\Users\\Marina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marina\\Desktop\\infinityskycorrigido\\InfinitySky_project\\InfinitySky_project\\obj\\",
+>>>>>>> 1e286c2c901c9213f5103d575e2ad079dc7e7533
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\laisv\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+          "C:\\Users\\Marina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 1e286c2c901c9213f5103d575e2ad079dc7e7533
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +44,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
