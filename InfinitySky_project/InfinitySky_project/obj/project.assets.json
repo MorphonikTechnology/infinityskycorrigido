@@ -1651,19 +1651,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Laura\\.nuget\\packages\\": {}
+    "C:\\Users\\laisv\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Laura\\Downloads\\InfinitySky_project\\InfinitySky_project\\InfinitySky_project\\InfinitySky_project.csproj",
+      "projectUniqueName": "C:\\Users\\laisv\\Desktop\\infinityskycorrigido\\InfinitySky_project\\InfinitySky_project\\InfinitySky_project.csproj",
       "projectName": "InfinitySky_project",
-      "projectPath": "C:\\Users\\Laura\\Downloads\\InfinitySky_project\\InfinitySky_project\\InfinitySky_project\\InfinitySky_project.csproj",
-      "packagesPath": "C:\\Users\\Laura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Laura\\Downloads\\InfinitySky_project\\InfinitySky_project\\InfinitySky_project\\obj\\",
+      "projectPath": "C:\\Users\\laisv\\Desktop\\infinityskycorrigido\\InfinitySky_project\\InfinitySky_project\\InfinitySky_project.csproj",
+      "packagesPath": "C:\\Users\\laisv\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\laisv\\Desktop\\infinityskycorrigido\\InfinitySky_project\\InfinitySky_project\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Laura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\laisv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1723,7 +1728,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

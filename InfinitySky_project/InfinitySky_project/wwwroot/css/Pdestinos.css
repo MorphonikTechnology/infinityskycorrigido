@@ -1,0 +1,300 @@
+﻿.banner {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.banner-image {
+    width: 100%;
+    height: auto;
+    max-height: 400px;
+    object-fit: cover;
+}
+
+.banner-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+    .banner-text h1 {
+        font-size: 3rem;
+    }
+
+    .banner-text p {
+        font-size: 1.5rem;
+        letter-spacing: 2px;
+    }
+
+.descricao {
+    padding: 20px;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+.programas {
+    padding: 20px;
+    text-align: center;
+}
+
+    .programas h2 {
+        margin-bottom: 20px;
+    }
+
+.cards {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.card {
+    background-color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    width: 30%;
+    margin: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+    .card img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+    }
+
+    .card h3 {
+        font-size: 1.5rem;
+        margin: 15px 0;
+    }
+
+    .card p {
+        padding: 0 15px 15px 15px;
+        font-size: 1rem;
+        color: #666;
+    }
+
+
+/* Estilização do container principal */
+.bluediv {
+    background-color: #003366; /* Cor de fundo semelhante ao da imagem */
+    color: white;
+    height: 300px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Alinha verticalmente o conteúdo ao centro */
+    align-items: flex-start; /* Alinha o conteúdo à esquerda */
+    height: 400px;
+}
+
+    .bluediv h1 {
+        font-size: 40px;
+        font-weight: bold;
+        margin-left: 210px;
+        color: white; /* Garante que o texto seja legível sobre a imagem de fundo */
+        margin-top: -20px;
+    }
+
+    .bluediv h2 {
+        font-size: 70px;
+        margin: 0;
+        margin-left: 100px;
+        color: white; /* Garante que o texto seja legível sobre a imagem de fundo */
+    }
+
+.descri {
+    color: white; /* Garante que o texto seja legível sobre a imagem de fundo */
+    margin-right: 150px;
+    text-align: center; /* Centraliza texto dentro do elemento */
+    font-size: 23px;
+    font-family: 'arial';
+    margin-left: 700px;
+    /tentando deixar padronizado/ text-align: justify;
+    text-align-last: justify;
+    line-height: 1.7;
+    hyphens: auto; /* Permite a quebra automática de palavras */
+    margin-top: -160px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #003366;
+    margin-bottom: 50px;
+}
+
+.planos-container {
+    display: flex;
+    margin-bottom: 50px;
+    gap: 15px;
+    /espaçamento/
+}
+
+.plano {
+    background-color: white;
+    border: 1px solid #ddd;
+    padding: 20px;
+    width: 32%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+}
+
+.imagem-plano {
+    width: 100%;
+}
+
+h2 {
+    color: #003366;
+    margin-bottom: 10px;
+    font-size: 22px;
+    text-align: center;
+}
+
+.saida {
+    color: #000000;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.preco {
+    margin: 20px 0;
+}
+
+    .preco h3 {
+        color: #003366;
+        font-size: 28px;
+        margin: 10px 0;
+    }
+
+    .preco span {
+        display: block;
+        color: #000000;
+    }
+
+    .preco button {
+        background-color: #003366;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        cursor: pointer;
+        font-weight: bold;
+    }
+
+        .preco button:hover {
+            background-color: #0055aa;
+        }
+
+.total {
+    color: #000000;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.paises-parceiros {
+    text-align: center;
+    margin-top: 50px;
+}
+
+    .paises-parceiros h2 {
+        color: #003366;
+        margin-bottom: 30px;
+    }
+
+.bandeiras {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    /espaçamento das bandeiras/
+}
+
+    .bandeiras img {
+        width: 60px;
+        height: 40px;
+    }
+
+
+
+
+
+.footer-content {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    color: #ffff;
+    /cor dos elementos do rodapé/ margin-top:700px;
+    background-color: #003366;
+    height: 400px;
+}
+
+.footer-texto {
+    width: 37%;
+    font-size: 17px;
+    font-family: 'arial';
+    margin-left: 300px;
+    display: flex;
+    margin-top: 90px;
+    text-align: justify;
+    text-align-last: justify;
+    line-height: 1.7;
+}
+
+
+
+.copy {
+    margin-top: 50px;
+    color: #ffffff;
+    margin-left: 465px;
+    font-size: 20px;
+    margin-top: -80px;
+    font-family: 'arial';
+}
+
+.img3 {
+    width: 1519px;
+    margin-top: -50px;
+    /exatamente na medida da outra div/ height: 635px;
+}
+
+
+.sm {
+    font-size: 35px;
+    margin-top: 50px;
+    margin-left: -80px;
+    display: flex;
+    font-family: 'arial';
+}
+
+.text1 {
+    font-size: 20px;
+    margin-left: 20px;
+    display: flex;
+    /espaço entre os outro elementos/ padding-left:15%;
+    /espaço entre os outro elementos/ font-family:'arial';
+    margin-top: 10px;
+}
+
+.text2 {
+    font-size: 20px;
+    margin-left: 90px;
+    margin-top: -85px;
+    display: flex;
+    padding-left: 50%;
+    /espaço entre os outro elementos/ font-family:'arial';
+}
+
+.text3 {
+    font-size: 20px;
+    margin-left: 170px;
+    margin-top: -93px;
+    display: flex;
+    padding-left: 80%;
+    /espaço entre os outro elementos/ font-family:'arial';
+}

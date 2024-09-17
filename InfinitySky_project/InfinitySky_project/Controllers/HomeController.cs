@@ -13,6 +13,7 @@ namespace InfinitySky_project.Controllers
         // Interfaces para cliente e login 
         private IClienteRepository? _clienteRepositorio;
         private LoginCliente _loginCliente;
+        private IPlanoRepository? _planoRepositorio;        
 
         public HomeController(ILogger<HomeController> logger, IClienteRepository clienteRepositorio, LoginCliente loginCliente) //-- recurso essencial para detectar ou investigar problemas(loggs); )
         {
@@ -96,6 +97,12 @@ namespace InfinitySky_project.Controllers
             return View();
         }
 
+        public IActionResult PrincipaisDestinos()
+        {
+            var Planos = _planoRepositorio.GetPlano();
+            return View(Planos);
+        }
+
 
 
 
@@ -105,4 +112,5 @@ namespace InfinitySky_project.Controllers
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
     }
+
 }

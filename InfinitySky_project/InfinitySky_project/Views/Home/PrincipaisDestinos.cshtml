@@ -1,0 +1,166 @@
+﻿
+@model IEnumerable<InfinitySky_project.Models.Plano>
+
+@{
+    ViewData["Title"] = "Principais Destinos";
+}
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>InfinitySky</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="~/css/Pdestinos.css" asp-append-version="true">
+</head>
+<body>
+ 
+    <!-- Banner com as 3 fotos -->
+    <section class="banner">
+
+        <img class="banner-image" src="/img/fundomelhorlugar.png" alt="banner-image"/>
+       
+        <div class="banner-text">
+            <h1>ESCOLHA O MELHOR LUGAR</h1>
+            <p>E VIVA EXPERIÊNCIAS INCRÍVEIS</p>
+        </div>
+    </section>
+
+    <!-- Descrição que aparece -->
+    <section class="descricao">
+        <p>Escolher o melhor país para fazer um intercâmbio é como selecionar a estrela mais brilhante em um vasto céu de oportunidades.</p>
+    </section>
+
+    <!-- Cartões -->
+    <section class="programas">
+        <h2>Encontre o seu programa de intercâmbio</h2>
+        <div class="cards">
+            <div class="card">
+                <img src="/img/fundoviagem.png" alt="Melhores países">
+                <h3>Melhores países</h3>
+                <p>Os melhores pacotes de países – comece a arrumar as malas</p>
+            </div>
+
+
+            <div class="card">
+                <img src="/img/fundoviagem2.png" alt="Estudos">
+                <h3>Estudos</h3>
+                <p>Descrição dos principais pacotes de intercâmbio – informações dos mais vendidos</p>
+            </div>
+
+
+            <div class="card">
+                <img src="/img/fundoviagem3.png" alt="Explore novos idiomas">
+                <h3>Explore novos idiomas</h3>
+                <p>Descrição dos principais pacotes de intercâmbio – informações dos mais vendidos</p>
+            </div>
+        </div>
+    </section>
+
+
+    <!--Mais coisas, inserindo os planos - implementando com o banco de dados-->
+
+    <div class="bluediv">
+        <h1>QUALIDADE</h1>
+        <h2>GARANTIDA</h2>
+
+        <p class="descri">
+            Cuidamos de todos os detalhes, desde a escolha do destino até o suporte no local,
+            para que você possa aproveitar ao máximo essa oportunidade única.
+            Nossa equipe é dedicada e experiente, pronta para oferecer orientação personalizada e resolver qualquer imprevisto que possa surgir.
+        </p>
+    </div>
+
+    </div>
+
+
+    <!-- Adicionando os "produtos" -> conexão com nosso banco de dados - carregando a imagem do banco de dados -->
+   
+       <div class="container">
+        <h1>Os planos mais vendidos</h1>
+
+        <div class="planos-container">
+            @foreach (var plano in Model)
+            {
+                <div class="plano">
+                    <img src="@plano.ImagemPlano" alt="@plano.CursoPlano" class="imagem-plano" />
+                    <h2>@plano.CursoPlano</h2>
+                    <p class="saida">Saindo de São Paulo</p>
+                    <p>@plano.DescricaoPlano</p>
+                    <p>Aérea ida e volta com bagagem inclusa</p>
+                    <p>Hospedagem - Host Family</p>
+                    <p>Check-in: 26/07/2024</p>
+                    <div class="preco">
+                        <span>A partir de</span>
+                        <h3>@plano.Valor.ToString("C")</h3>
+                        <p>Preço para 2 pessoas</p>
+                        <button>CONFIRA</button>
+                    </div>
+                    <p class="total">Total para 2 pessoas: @plano.Valor.ToString("C")</p>
+                </div>
+            }
+        </div>
+    </div>
+
+
+
+            <div class="plano">
+                <img src="img/fundolondres.png" alt="Londres" class="imagem-plano">
+                <h2>Londres - 7 Diárias</h2>
+                <p class="saida">Saindo de São Paulo</p>
+                <p>Aérea ida e volta com bagagem inclusa</p>
+                <p>Hospedagem - Host Family</p>
+                <p>Check-in: 26/07/2024</p>
+                <div class="preco">
+                    <span>A partir de</span>
+                    <h3>12x R$ 703</h3>
+                    <p>Preço para 1 pessoa</p>
+                    <button>CONFIRA</button>
+                </div>
+                <p class="total">Total para 1 pessoa: R$8.436,00</p>
+            </div>
+
+            <div class="plano">
+                <img src="img/fundoportugal.png" alt="Portugal" class="imagem-plano">
+                <h2>Portugal - 7 Diárias</h2>
+                <p class="saida">Saindo de São Paulo</p>
+                <p>Aérea ida e volta com bagagem inclusa</p>
+                <p>Hospedagem - Host Family</p>
+                <p>Check-in: 26/07/2024</p>
+                <div class="preco">
+                    <span>A partir de</span>
+                    <h3>12x R$ 659</h3>
+                    <p>Preço para 1 pessoa</p>
+                    <button>CONFIRA</button>
+                </div>
+                <p class="total">Total para 1 pessoa: R$7.908,00</p>
+            </div>
+        </>
+
+
+        <!-- Adicionando todas as bandeiras -->
+        <div class="paises-parceiros">
+            <h2>PAÍSES PARCEIROS</h2>
+            <div class="bandeiras">
+                <img src="/img/italia.png" alt="Italia">
+                <img src="/img/portugal.png" alt="Portugal">
+                <img src="/img/espanha.png" alt="Espanha">
+                <img src="/img/argentina.png" alt="Argentina">
+                <img src="/img/reinounido.png" alt="Reino Unido">
+                <img src="/img/franca.png" alt="Franca">
+                <img src="/img/eua.png" alt="Estados Unidos">
+                <img src="/img/alemanha.png" alt="Alemanha">
+                <img src="/img/canada.png" alt="Canadá">
+               
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+</body>
+</html>
