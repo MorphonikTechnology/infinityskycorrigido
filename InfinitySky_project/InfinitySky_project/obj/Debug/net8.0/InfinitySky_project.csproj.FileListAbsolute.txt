@@ -149,3 +149,15 @@ C:\Users\laisv\Desktop\infinityskycorrigido\InfinitySky_project\InfinitySky_proj
 C:\Users\laisv\Desktop\infinityskycorrigido\InfinitySky_project\InfinitySky_project\obj\Debug\net8.0\Infinity.0E7A7CC1.Up2Date
 C:\Users\laisv\Desktop\infinityskycorrigido\InfinitySky_project\InfinitySky_project\obj\Debug\net8.0\InfinitySky_project.genruntimeconfig.cache
 C:\Users\laisv\Desktop\infinityskycorrigido\InfinitySky_project\InfinitySky_project\obj\Debug\net8.0\ref\InfinitySky_project.dll
+C:\Users\anapa\Desktop\infinityskycorrigido\InfinitySky_project\InfinitySky_project\obj\Debug\net8.0\InfinitySky_project.csproj.AssemblyReference.cache
+C:\Users\anapa\Desktop\infinityskycorrigido\InfinitySky_project\InfinitySky_project\obj\Debug\net8.0\InfinitySky_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anapa\Desktop\infinityskycorrigido\InfinitySky_project\InfinitySky_project\obj\Debug\net8.0\InfinitySky_project.AssemblyInfoInputs.cache
+C:\Users\anapa\Desktop\infinityskycorrigido\InfinitySky_project\InfinitySky_project\obj\Debug\net8.0\InfinitySky_project.AssemblyInfo.cs
+C:\Users\anapa\Desktop\infinityskycorrigido\InfinitySky_project\InfinitySky_project\obj\Debug\net8.0\InfinitySky_project.csproj.CoreCompileInputs.cache
+C:\Users\anapa\Desktop\infinityskycorrigido\InfinitySky_project\InfinitySky_project\obj\Debug\net8.0\InfinitySky_project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anapa\Desktop\infinityskycorrigido\InfinitySky_project\InfinitySky_project\obj\Debug\net8.0\InfinitySky_project.RazorAssemblyInfo.cache
+C:\Users\anapa\Desktop\infinityskycorrigido\InfinitySky_project\InfinitySky_project\obj\Debug\net8.0\InfinitySky_project.RazorAssemblyInfo.cs
+C:\Users\anapa\Desktop\infinityskycorrigido\InfinitySky_project\InfinitySky_project\obj\Debug\net8.0\InfinitySky_project.sourcelink.json
+C:\Users\anapa\Desktop\infinityskycorrigido\InfinitySky_project\InfinitySky_project\obj\Debug\net8.0\InfinitySky_project.dll
+C:\Users\anapa\Desktop\infinityskycorrigido\InfinitySky_project\InfinitySky_project\obj\Debug\net8.0\refint\InfinitySky_project.dll
+C:\Users\anapa\Desktop\infinityskycorrigido\InfinitySky_project\InfinitySky_project\obj\Debug\net8.0\InfinitySky_project.pdb
