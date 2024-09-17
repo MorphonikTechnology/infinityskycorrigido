@@ -9,67 +9,75 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = InfinitySky_project
 build_property.RootNamespace = InfinitySky_project
-build_property.ProjectDir = C:\Users\anapa\Desktop\infinityskycorrigido\InfinitySky_project\InfinitySky_project\
+build_property.ProjectDir = C:\Users\Marina\Desktop\infinityskycorrigido\InfinitySky_project\InfinitySky_project\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\anapa\Desktop\infinityskycorrigido\InfinitySky_project\InfinitySky_project
+build_property.MSBuildProjectDirectory = C:\Users\Marina\Desktop\infinityskycorrigido\InfinitySky_project\InfinitySky_project
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/anapa/Desktop/infinityskycorrigido/InfinitySky_project/InfinitySky_project/Views/Home/CadastrarCliente.cshtml]
+[C:/Users/Marina/Desktop/infinityskycorrigido/InfinitySky_project/InfinitySky_project/Views/Home/CadastrarCliente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWRhc3RyYXJDbGllbnRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/anapa/Desktop/infinityskycorrigido/InfinitySky_project/InfinitySky_project/Views/Home/DadosCliente.cshtml]
+[C:/Users/Marina/Desktop/infinityskycorrigido/InfinitySky_project/InfinitySky_project/Views/Home/DadosCliente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYWRvc0NsaWVudGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/anapa/Desktop/infinityskycorrigido/InfinitySky_project/InfinitySky_project/Views/Home/Favoritos.cshtml]
+[C:/Users/Marina/Desktop/infinityskycorrigido/InfinitySky_project/InfinitySky_project/Views/Home/Favoritos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGYXZvcml0b3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/anapa/Desktop/infinityskycorrigido/InfinitySky_project/InfinitySky_project/Views/Home/Index.cshtml]
+[C:/Users/Marina/Desktop/infinityskycorrigido/InfinitySky_project/InfinitySky_project/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/anapa/Desktop/infinityskycorrigido/InfinitySky_project/InfinitySky_project/Views/Home/Login.cshtml]
+[C:/Users/Marina/Desktop/infinityskycorrigido/InfinitySky_project/InfinitySky_project/Views/Home/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/anapa/Desktop/infinityskycorrigido/InfinitySky_project/InfinitySky_project/Views/Home/PainelCliente.cshtml]
+[C:/Users/Marina/Desktop/infinityskycorrigido/InfinitySky_project/InfinitySky_project/Views/Home/Pagamento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYWdhbWVudG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marina/Desktop/infinityskycorrigido/InfinitySky_project/InfinitySky_project/Views/Home/PainelCliente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYWluZWxDbGllbnRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/anapa/Desktop/infinityskycorrigido/InfinitySky_project/InfinitySky_project/Views/Home/PrincipaisDestinos.cshtml]
+[C:/Users/Marina/Desktop/infinityskycorrigido/InfinitySky_project/InfinitySky_project/Views/Home/PrincipaisDestinos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcmluY2lwYWlzRGVzdGlub3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/anapa/Desktop/infinityskycorrigido/InfinitySky_project/InfinitySky_project/Views/Home/Privacy.cshtml]
+[C:/Users/Marina/Desktop/infinityskycorrigido/InfinitySky_project/InfinitySky_project/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/anapa/Desktop/infinityskycorrigido/InfinitySky_project/InfinitySky_project/Views/Home/Sobre.cshtml]
+[C:/Users/Marina/Desktop/infinityskycorrigido/InfinitySky_project/InfinitySky_project/Views/Home/RegistrarCompra.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3RyYXJDb21wcmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marina/Desktop/infinityskycorrigido/InfinitySky_project/InfinitySky_project/Views/Home/Sobre.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTb2JyZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/anapa/Desktop/infinityskycorrigido/InfinitySky_project/InfinitySky_project/Views/Shared/Error.cshtml]
+[C:/Users/Marina/Desktop/infinityskycorrigido/InfinitySky_project/InfinitySky_project/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/anapa/Desktop/infinityskycorrigido/InfinitySky_project/InfinitySky_project/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Marina/Desktop/infinityskycorrigido/InfinitySky_project/InfinitySky_project/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/anapa/Desktop/infinityskycorrigido/InfinitySky_project/InfinitySky_project/Views/_ViewImports.cshtml]
+[C:/Users/Marina/Desktop/infinityskycorrigido/InfinitySky_project/InfinitySky_project/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/anapa/Desktop/infinityskycorrigido/InfinitySky_project/InfinitySky_project/Views/_ViewStart.cshtml]
+[C:/Users/Marina/Desktop/infinityskycorrigido/InfinitySky_project/InfinitySky_project/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/anapa/Desktop/infinityskycorrigido/InfinitySky_project/InfinitySky_project/Views/Shared/_Layout.cshtml]
+[C:/Users/Marina/Desktop/infinityskycorrigido/InfinitySky_project/InfinitySky_project/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-z763tyo6tf
